@@ -29,4 +29,5 @@ $lg: 1200px; // desktops
   @media (min-width: $lg) {
     @content;
   }
-}```
+}
+```
